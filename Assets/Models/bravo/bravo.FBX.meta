@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 1e4e321d0c4814e4280de8c962b7caed
+timeCreated: 1427928664
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ..desktops
+    100002: .End-Stand-004
+    100004: .End-Stand-Computer003
+    100006: .End-Stand003
+    100008: .Fixture-Printers
+    100010: .Fixture-Printers_MeshPart0
+    100012: .Fixture-Printers_MeshPart1
+    100014: .Fixture-Printers_MeshPart2
+    100016: .Fixture-TVandAPPLE
+    100018: .Fixture-TVandSecurity
+    100020: .tvs-backwall
+    100022: .tvs-center
+    100024: .tvs-large
+    100026: .tvs-large001
+    100028: .tvs-large002
+    100030: 99"004-WHOLE
+    100032: //RootNode
+    100034: fin__Printers
+    100036: fixture
+    100038: fixtures wood
+    100040: Object308
+    100042: Object308_MeshPart0
+    100044: Object308_MeshPart1
+    100046: Object309
+    400000: ..desktops
+    400002: .End-Stand-004
+    400004: .End-Stand-Computer003
+    400006: .End-Stand003
+    400008: .Fixture-Printers
+    400010: .Fixture-Printers_MeshPart0
+    400012: .Fixture-Printers_MeshPart1
+    400014: .Fixture-Printers_MeshPart2
+    400016: .Fixture-TVandAPPLE
+    400018: .Fixture-TVandSecurity
+    400020: .tvs-backwall
+    400022: .tvs-center
+    400024: .tvs-large
+    400026: .tvs-large001
+    400028: .tvs-large002
+    400030: 99"004-WHOLE
+    400032: //RootNode
+    400034: fin__Printers
+    400036: fixture
+    400038: fixtures wood
+    400040: Object308
+    400042: Object308_MeshPart0
+    400044: Object308_MeshPart1
+    400046: Object309
+    2300000: ..desktops
+    2300002: .End-Stand-Computer003
+    2300004: .End-Stand003
+    2300006: .Fixture-Printers_MeshPart0
+    2300008: .Fixture-Printers_MeshPart1
+    2300010: .Fixture-Printers_MeshPart2
+    2300012: .Fixture-TVandAPPLE
+    2300014: .Fixture-TVandSecurity
+    2300016: .tvs-backwall
+    2300018: .tvs-center
+    2300020: .tvs-large
+    2300022: .tvs-large001
+    2300024: .tvs-large002
+    2300026: 99"004-WHOLE
+    2300028: fixture
+    2300030: Object308_MeshPart0
+    2300032: Object308_MeshPart1
+    2300034: Object309
+    3300000: ..desktops
+    3300002: .End-Stand-Computer003
+    3300004: .End-Stand003
+    3300006: .Fixture-Printers_MeshPart0
+    3300008: .Fixture-Printers_MeshPart1
+    3300010: .Fixture-Printers_MeshPart2
+    3300012: .Fixture-TVandAPPLE
+    3300014: .Fixture-TVandSecurity
+    3300016: .tvs-backwall
+    3300018: .tvs-center
+    3300020: .tvs-large
+    3300022: .tvs-large001
+    3300024: .tvs-large002
+    3300026: 99"004-WHOLE
+    3300028: fixture
+    3300030: Object308_MeshPart0
+    3300032: Object308_MeshPart1
+    3300034: Object309
+    4300000: .Fixture-Printers_MeshPart0
+    4300002: .Fixture-Printers_MeshPart1
+    4300004: .Fixture-Printers_MeshPart2
+    4300006: 99"004-WHOLE
+    4300008: Object309
+    4300010: Object308_MeshPart0
+    4300012: Object308_MeshPart1
+    4300014: fixture
+    4300016: ..desktops
+    4300018: .End-Stand-Computer003
+    4300020: .End-Stand003
+    4300022: .Fixture-TVandSecurity
+    4300024: .Fixture-TVandAPPLE
+    4300026: .tvs-center
+    4300028: .tvs-large001
+    4300030: .tvs-large
+    4300032: .tvs-backwall
+    4300034: .tvs-large002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
