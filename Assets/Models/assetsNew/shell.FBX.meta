@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6e265dc78eaa760449040dfab4f53031
+timeCreated: 1429838630
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: .All_Columns
+    100002: .All_Columns_MeshPart0
+    100004: .All_Columns_MeshPart1
+    100006: .Microcenter_exterior
+    100008: .store top
+    100010: Dell-text
+    100012: metal_detectors
+    100014: New_barjoists
+    100016: New_barjoists_MeshPart0
+    100018: New_barjoists_MeshPart1
+    100020: //RootNode
+    100022: Text06
+    100024: Text07
+    100026: Text08
+    100028: Text11
+    100030: Text12
+    100032: Text13
+    100034: Text15
+    100036: Walls
+    400000: .All_Columns
+    400002: .All_Columns_MeshPart0
+    400004: .All_Columns_MeshPart1
+    400006: .Microcenter_exterior
+    400008: .store top
+    400010: Dell-text
+    400012: metal_detectors
+    400014: New_barjoists
+    400016: New_barjoists_MeshPart0
+    400018: New_barjoists_MeshPart1
+    400020: //RootNode
+    400022: Text06
+    400024: Text07
+    400026: Text08
+    400028: Text11
+    400030: Text12
+    400032: Text13
+    400034: Text15
+    400036: Walls
+    2300000: .All_Columns_MeshPart0
+    2300002: .All_Columns_MeshPart1
+    2300004: .Microcenter_exterior
+    2300006: .store top
+    2300008: Dell-text
+    2300010: metal_detectors
+    2300012: New_barjoists_MeshPart0
+    2300014: New_barjoists_MeshPart1
+    2300016: Text06
+    2300018: Text07
+    2300020: Text08
+    2300022: Text11
+    2300024: Text12
+    2300026: Text13
+    2300028: Text15
+    2300030: Walls
+    3300000: .All_Columns_MeshPart0
+    3300002: .All_Columns_MeshPart1
+    3300004: .Microcenter_exterior
+    3300006: .store top
+    3300008: Dell-text
+    3300010: metal_detectors
+    3300012: New_barjoists_MeshPart0
+    3300014: New_barjoists_MeshPart1
+    3300016: Text06
+    3300018: Text07
+    3300020: Text08
+    3300022: Text11
+    3300024: Text12
+    3300026: Text13
+    3300028: Text15
+    3300030: Walls
+    4300000: Dell-text
+    4300002: Walls
+    4300004: .All_Columns_MeshPart0
+    4300006: .All_Columns_MeshPart1
+    4300008: .Microcenter_exterior
+    4300010: metal_detectors
+    4300012: .store top
+    4300014: New_barjoists_MeshPart0
+    4300016: New_barjoists_MeshPart1
+    4300018: Text11
+    4300020: Text15
+    4300022: Text13
+    4300024: Text12
+    4300026: Text08
+    4300028: Text07
+    4300030: Text06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

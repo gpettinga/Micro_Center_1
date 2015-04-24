@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 9f2f91fcf72cc76449e5d9c7c4ac53af
+timeCreated: 1429838721
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: .displays
+    100002: .SERVICE PICKUP_text
+    100004: CScounter
+    100006: KB Stools
+    100008: KB Stools_MeshPart0
+    100010: KB Stools_MeshPart1
+    100012: KB_ceiling_tiles
+    100014: KB_counter
+    100016: KB_text
+    100018: KB_text_MeshPart0
+    100020: KB_text_MeshPart1
+    100022: KBdrawers
+    100024: KBdrawers_MeshPart0
+    100026: KBdrawers_MeshPart1
+    100028: //RootNode
+    100030: LAPTOP36
+    100032: LAPTOP37
+    100034: New_digital_imaging02
+    100036: Object87
+    100038: Object88
+    100040: Object89
+    100042: Ring_cornus
+    100044: Text01
+    100046: Text20
+    100048: Text21
+    100050: Text22
+    100052: triangle_molding
+    400000: .displays
+    400002: .SERVICE PICKUP_text
+    400004: CScounter
+    400006: KB Stools
+    400008: KB Stools_MeshPart0
+    400010: KB Stools_MeshPart1
+    400012: KB_ceiling_tiles
+    400014: KB_counter
+    400016: KB_text
+    400018: KB_text_MeshPart0
+    400020: KB_text_MeshPart1
+    400022: KBdrawers
+    400024: KBdrawers_MeshPart0
+    400026: KBdrawers_MeshPart1
+    400028: //RootNode
+    400030: LAPTOP36
+    400032: LAPTOP37
+    400034: New_digital_imaging02
+    400036: Object87
+    400038: Object88
+    400040: Object89
+    400042: Ring_cornus
+    400044: Text01
+    400046: Text20
+    400048: Text21
+    400050: Text22
+    400052: triangle_molding
+    2300000: .displays
+    2300002: .SERVICE PICKUP_text
+    2300004: CScounter
+    2300006: KB Stools_MeshPart0
+    2300008: KB Stools_MeshPart1
+    2300010: KB_ceiling_tiles
+    2300012: KB_counter
+    2300014: KB_text_MeshPart0
+    2300016: KB_text_MeshPart1
+    2300018: KBdrawers_MeshPart0
+    2300020: KBdrawers_MeshPart1
+    2300022: LAPTOP36
+    2300024: LAPTOP37
+    2300026: New_digital_imaging02
+    2300028: Object87
+    2300030: Object88
+    2300032: Object89
+    2300034: Ring_cornus
+    2300036: Text01
+    2300038: Text20
+    2300040: Text21
+    2300042: Text22
+    2300044: triangle_molding
+    3300000: .displays
+    3300002: .SERVICE PICKUP_text
+    3300004: CScounter
+    3300006: KB Stools_MeshPart0
+    3300008: KB Stools_MeshPart1
+    3300010: KB_ceiling_tiles
+    3300012: KB_counter
+    3300014: KB_text_MeshPart0
+    3300016: KB_text_MeshPart1
+    3300018: KBdrawers_MeshPart0
+    3300020: KBdrawers_MeshPart1
+    3300022: LAPTOP36
+    3300024: LAPTOP37
+    3300026: New_digital_imaging02
+    3300028: Object87
+    3300030: Object88
+    3300032: Object89
+    3300034: Ring_cornus
+    3300036: Text01
+    3300038: Text20
+    3300040: Text21
+    3300042: Text22
+    3300044: triangle_molding
+    4300000: .SERVICE PICKUP_text
+    4300002: triangle_molding
+    4300004: KB_ceiling_tiles
+    4300006: KB_text_MeshPart0
+    4300008: KB_text_MeshPart1
+    4300010: KB Stools_MeshPart0
+    4300012: KB Stools_MeshPart1
+    4300014: CScounter
+    4300016: KB_counter
+    4300018: KBdrawers_MeshPart0
+    4300020: KBdrawers_MeshPart1
+    4300022: New_digital_imaging02
+    4300024: Object89
+    4300026: Object88
+    4300028: Object87
+    4300030: LAPTOP37
+    4300032: LAPTOP36
+    4300034: .displays
+    4300036: Ring_cornus
+    4300038: Text20
+    4300040: Text21
+    4300042: Text22
+    4300044: Text01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

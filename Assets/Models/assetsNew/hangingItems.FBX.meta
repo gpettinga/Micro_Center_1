@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 060f093d698a7294986d5282e0a0b5eb
+timeCreated: 1429838572
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: .Hanging-Aisle-Signs
+    100002: .Hanging-Aisle-Signs tri
+    100004: .Hanging-Aisle-Signs tri001
+    100006: .Hanging-Aisle-Signs--NEW
+    100008: Banners-KB_01
+    100010: Banners10
+    100012: BannersKB_02
+    100014: Dome_Light_Bronze_ailse
+    100016: Dome_Light_silver-Outer
+    100018: Dome_Light_silver-Outer_MeshPart0
+    100020: Dome_Light_silver-Outer_MeshPart1
+    100022: Dome_Light_silver-Outer_MeshPart2
+    100024: //RootNode
+    400000: .Hanging-Aisle-Signs
+    400002: .Hanging-Aisle-Signs tri
+    400004: .Hanging-Aisle-Signs tri001
+    400006: .Hanging-Aisle-Signs--NEW
+    400008: Banners-KB_01
+    400010: Banners10
+    400012: BannersKB_02
+    400014: Dome_Light_Bronze_ailse
+    400016: Dome_Light_silver-Outer
+    400018: Dome_Light_silver-Outer_MeshPart0
+    400020: Dome_Light_silver-Outer_MeshPart1
+    400022: Dome_Light_silver-Outer_MeshPart2
+    400024: //RootNode
+    2300000: .Hanging-Aisle-Signs
+    2300002: .Hanging-Aisle-Signs tri
+    2300004: .Hanging-Aisle-Signs tri001
+    2300006: .Hanging-Aisle-Signs--NEW
+    2300008: Banners-KB_01
+    2300010: Banners10
+    2300012: BannersKB_02
+    2300014: Dome_Light_Bronze_ailse
+    2300016: Dome_Light_silver-Outer_MeshPart0
+    2300018: Dome_Light_silver-Outer_MeshPart1
+    2300020: Dome_Light_silver-Outer_MeshPart2
+    3300000: .Hanging-Aisle-Signs
+    3300002: .Hanging-Aisle-Signs tri
+    3300004: .Hanging-Aisle-Signs tri001
+    3300006: .Hanging-Aisle-Signs--NEW
+    3300008: Banners-KB_01
+    3300010: Banners10
+    3300012: BannersKB_02
+    3300014: Dome_Light_Bronze_ailse
+    3300016: Dome_Light_silver-Outer_MeshPart0
+    3300018: Dome_Light_silver-Outer_MeshPart1
+    3300020: Dome_Light_silver-Outer_MeshPart2
+    4300000: Banners-KB_01
+    4300002: BannersKB_02
+    4300004: Banners10
+    4300006: Dome_Light_Bronze_ailse
+    4300008: Dome_Light_silver-Outer_MeshPart0
+    4300010: Dome_Light_silver-Outer_MeshPart1
+    4300012: Dome_Light_silver-Outer_MeshPart2
+    4300014: .Hanging-Aisle-Signs--NEW
+    4300016: .Hanging-Aisle-Signs tri001
+    4300018: .Hanging-Aisle-Signs tri
+    4300020: .Hanging-Aisle-Signs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

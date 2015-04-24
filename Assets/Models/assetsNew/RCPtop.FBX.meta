@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 12c69ea7674805f46b153906e8912669
+timeCreated: 1429838580
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: .flouresents
+    100002: .flouresents2
+    100004: ceiling_backing
+    100006: ceiling_lightbox01
+    100008: crown_molding_soffit_revised
+    100010: Crownmolding-main
+    100012: dropCeilingOne
+    100014: dropCeilingTwo
+    100016: lightBoxes
+    100018: //RootNode
+    400000: .flouresents
+    400002: .flouresents2
+    400004: ceiling_backing
+    400006: ceiling_lightbox01
+    400008: crown_molding_soffit_revised
+    400010: Crownmolding-main
+    400012: dropCeilingOne
+    400014: dropCeilingTwo
+    400016: lightBoxes
+    400018: //RootNode
+    2300000: .flouresents
+    2300002: .flouresents2
+    2300004: ceiling_backing
+    2300006: ceiling_lightbox01
+    2300008: crown_molding_soffit_revised
+    2300010: Crownmolding-main
+    2300012: dropCeilingOne
+    2300014: dropCeilingTwo
+    2300016: lightBoxes
+    3300000: .flouresents
+    3300002: .flouresents2
+    3300004: ceiling_backing
+    3300006: ceiling_lightbox01
+    3300008: crown_molding_soffit_revised
+    3300010: Crownmolding-main
+    3300012: dropCeilingOne
+    3300014: dropCeilingTwo
+    3300016: lightBoxes
+    4300000: crown_molding_soffit_revised
+    4300002: Crownmolding-main
+    4300004: ceiling_backing
+    4300006: .flouresents
+    4300008: dropCeilingTwo
+    4300010: ceiling_lightbox01
+    4300012: dropCeilingOne
+    4300014: .flouresents2
+    4300016: lightBoxes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
