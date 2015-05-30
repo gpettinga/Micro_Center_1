@@ -8,6 +8,7 @@ This script can be used for free if you give credits to the maker of the script.
 
 using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class TakeScreenshot : MonoBehaviour {
 	
@@ -17,6 +18,7 @@ public class TakeScreenshot : MonoBehaviour {
 	public string imageName = "Screenshot_";
 	public string customPath = "C:/Users/default/Desktop/UnityScreenshots/"; // leave blank for project file location
 	public bool resetIndex = false;
+	public Text screenShotText;
 	
 	private int index = 0;
 	
@@ -66,12 +68,16 @@ public class TakeScreenshot : MonoBehaviour {
 	
 	void LateUpdate () 
 	{
-		if(Input.GetKeyDown(KeyCode.L))
+		if(Input.GetKeyDown(KeyCode.P))
 		{
 			Application.CaptureScreenshot(System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + imageName + index + ".png", resolution);
 			//Application.CaptureScreenshot(customPath + imageName + index + ".png", resolution);
+			screenShotText.text = "Screenshot saved: " + System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments)+ " --- " + imageName + index;
+
 			index++;
-			Debug.LogWarning("Screenshot saved: " + System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments)+ " --- " + imageName + index);
+
+
+			//Debug.LogWarning("Screenshot saved: " + System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments)+ " --- " + imageName + index);
 			//Debug.LogWarning("Screenshot saved: " + customPath + " --- " + imageName + index);
 		}
 	}

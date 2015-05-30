@@ -22,11 +22,18 @@ public class SimpleCameraMovement : MonoBehaviour {
 		moveZ= Input.GetAxis ("Vertical");
 		moveY = Input.GetAxis("Mouse ScrollWheel");
 
-		camMover = new Vector3(moveX,moveY*10,moveZ) * Time.deltaTime * moveSpeed;
+		camMover = new Vector3(moveX,moveY*-10,moveZ) * Time.deltaTime * moveSpeed;
 
 		transform.Translate(camMover);
 
-
+		if(Input.GetKey(KeyCode.E))
+		{
+			transform.Rotate(Vector3.up* Time.deltaTime * -moveSpeed);
+		}
+		if(Input.GetKey(KeyCode.Q))
+		{
+			transform.Rotate(Vector3.up* Time.deltaTime * moveSpeed);
+		}
 
 	}
 }
